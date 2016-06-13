@@ -1,2 +1,2 @@
 # AutoAudit
-ETC: scripting audit tools
+ETC: scripted audit tools
