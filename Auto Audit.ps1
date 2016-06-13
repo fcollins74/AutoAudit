@@ -1,4 +1,6 @@
-﻿$scriptPath = split-path -parent $MyInvocation.MyCommand.Definition
+﻿#github commit test
+
+$scriptPath = split-path -parent $MyInvocation.MyCommand.Definition
 $destinationFolder = "C:\ETCTECH\Audit\"
 
 
